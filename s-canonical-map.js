@@ -6,5 +6,29 @@ window.__canonicalMap = {
   "/de-blog/kubernetes-in-depth-storage-security-features":
     "https://idatamax.com/blog/kubernetes-in-depth-storage-security-features",
   "/de-blog/kubernetes-best-practices-deployment-troubleshooting":
-    "https://idatamax.com/blog/kubernetes-best-practices-deployment-troubleshooting"
+    "https://idatamax.com/blog/kubernetes-best-practices-deployment-troubleshooting",
+  "/de-blog/apache-spark-architecture-performance":
+    "https://idatamax.com/blog/apache-spark-architecture-performance",
+  "/de-blog/cloud-data-tools-aws-google-azure":
+    "https://idatamax.com/blog/cloud-data-tools-aws-google-azure",
+  "/de-blog/slowly-changing-dimensions-strategies":
+    "https://idatamax.com/blog/slowly-changing-dimensions-strategies",
+  "/de-blog/engineering-with-solid-dry-kiss-yagni-and-grasp":
+    "https://idatamax.com/blog/engineering-with-solid-dry-kiss-yagni-and-grasp",
+  "/de-blog/merkle-trees-validation":
+    "https://idatamax.com/blog/merkle-trees-validation",
+  "/de-blog/kimball-vs-inmon-data-warehouse-design":
+    "https://idatamax.com/blog/kimball-vs-inmon-data-warehouse-design",
+  "/de-blog/data-mesh-vs-data-fabric":
+    "https://idatamax.com/blog/data-mesh-vs-data-fabric",
+  "/de-blog/data-modeling-basics-to-advanced":
+    "https://idatamax.com/blog/data-modeling-basics-to-advanced",
+  "/de-blog/high-load-api-services-in-go":
+    "https://idatamax.com/blog/high-load-api-services-in-go",
+  "/de-blog/acid-isolation-levels-mvcc-relational-databases":
+    "https://idatamax.com/blog/acid-isolation-levels-mvcc-relational-databases",
+  "/de-blog/sagas-managing-transactions-in-distributed-systems":
+    "https://idatamax.com/blog/sagas-managing-transactions-in-distributed-systems",
+  "/de-blog/real-time-data-cdc-and-kafka-for-sharded-databases":
+    "https://idatamax.com/blog/real-time-data-cdc-and-kafka-for-sharded-databases"
 };
