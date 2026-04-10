@@ -1,4 +1,24 @@
 window.__canonicalMap = {
+  "/de-blog/4-types-of-analytics-guide":
+    "https://idatamax.com/blog/4-types-of-analytics-guide",
+  "/de-blog/mlops-machine-learning-lifecycle":
+    "https://idatamax.com/blog/mlops-machine-learning-lifecycle",
+  "/de-blog/why-data-formats-matter":
+    "https://idatamax.com/blog/why-data-formats-matter",
+  "/de-blog/real-data-engineering":
+    "https://idatamax.com/blog/real-data-engineering",
+  "/de-blog/cloud-data-tools-aws-google-azure":
+    "https://idatamax.com/blog/cloud-data-tools-aws-google-azure",
+  "/de-blog/modern-data-platform-scalable-bi":
+    "https://idatamax.com/blog/modern-data-platform-scalable-bi",
+  "/de-blog/building-secure-network-architectures":
+    "https://idatamax.com/blog/building-secure-network-architectures",
+  "/de-blog/cross-platform-attribution-data-driven-marketing-roi":
+    "https://idatamax.com/blog/cross-platform-attribution-data-driven-marketing-roi",
+  "/de-blog/slowly-changing-dimensions-strategies":
+    "https://idatamax.com/blog/slowly-changing-dimensions-strategies",
+  "/de-blog/apache-spark-architecture-performance":
+    "https://idatamax.com/blog/apache-spark-architecture-performance",
   "/de-blog/kubernetes-foundations-architecture-core-components":
     "https://idatamax.com/blog/kubernetes-foundations-architecture-core-components",
   "/de-blog/kubernetes-under-the-hood-mechanisms-networking":
@@ -7,12 +27,6 @@ window.__canonicalMap = {
     "https://idatamax.com/blog/kubernetes-in-depth-storage-security-features",
   "/de-blog/kubernetes-best-practices-deployment-troubleshooting":
     "https://idatamax.com/blog/kubernetes-best-practices-deployment-troubleshooting",
-  "/de-blog/apache-spark-architecture-performance":
-    "https://idatamax.com/blog/apache-spark-architecture-performance",
-  "/de-blog/cloud-data-tools-aws-google-azure":
-    "https://idatamax.com/blog/cloud-data-tools-aws-google-azure",
-  "/de-blog/slowly-changing-dimensions-strategies":
-    "https://idatamax.com/blog/slowly-changing-dimensions-strategies",
   "/de-blog/engineering-with-solid-dry-kiss-yagni-and-grasp":
     "https://idatamax.com/blog/engineering-with-solid-dry-kiss-yagni-and-grasp",
   "/de-blog/merkle-trees-validation":
@@ -25,6 +39,12 @@ window.__canonicalMap = {
     "https://idatamax.com/blog/data-modeling-basics-to-advanced",
   "/de-blog/high-load-api-services-in-go":
     "https://idatamax.com/blog/high-load-api-services-in-go",
+  "/de-blog/the-blueprint-of-a-data-team-roles":
+    "https://idatamax.com/blog/the-blueprint-of-a-data-team-roles",
+  "/de-blog/anomaly-detection-finance":
+    "https://idatamax.com/blog/anomaly-detection-finance",
+  "/de-blog/mastering-mlflow-lifecycle":
+    "https://idatamax.com/blog/mastering-mlflow-lifecycle",
   "/de-blog/acid-isolation-levels-mvcc-relational-databases":
     "https://idatamax.com/blog/acid-isolation-levels-mvcc-relational-databases",
   "/de-blog/sagas-managing-transactions-in-distributed-systems":
